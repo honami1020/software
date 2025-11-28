@@ -1,0 +1,21 @@
+[0.421s] Invoking command in '/home/honami/soft_ws/build/soft_ws': PYTHONPATH=/home/honami/soft_ws/build/soft_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/honami/soft_ws/build/soft_ws/build --no-deps symlink_data
+[0.597s] running develop
+[0.709s] running egg_info
+[0.710s] writing soft_ws.egg-info/PKG-INFO
+[0.710s] writing dependency_links to soft_ws.egg-info/dependency_links.txt
+[0.710s] writing entry points to soft_ws.egg-info/entry_points.txt
+[0.710s] writing requirements to soft_ws.egg-info/requires.txt
+[0.710s] writing top-level names to soft_ws.egg-info/top_level.txt
+[0.711s] reading manifest file 'soft_ws.egg-info/SOURCES.txt'
+[0.712s] writing manifest file 'soft_ws.egg-info/SOURCES.txt'
+[0.712s] running build_ext
+[0.713s] Creating /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft-ws.egg-link (link to .)
+[0.713s] Installing fake_imu_publisher script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.713s] Installing goal_navigation_with_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.713s] Installing goal_reporter_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.713s] Installing gps_controller script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.713s] Installing gps_to_odom_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.713s] 
+[0.713s] Installed /home/honami/soft_ws/build/soft_ws
+[0.713s] running symlink_data
+[0.729s] Invoked command in '/home/honami/soft_ws/build/soft_ws' returned '0': PYTHONPATH=/home/honami/soft_ws/build/soft_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/honami/soft_ws/build/soft_ws/build --no-deps symlink_data

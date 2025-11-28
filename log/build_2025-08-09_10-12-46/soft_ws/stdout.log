@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing soft_ws.egg-info/PKG-INFO
+writing dependency_links to soft_ws.egg-info/dependency_links.txt
+writing entry points to soft_ws.egg-info/entry_points.txt
+writing requirements to soft_ws.egg-info/requires.txt
+writing top-level names to soft_ws.egg-info/top_level.txt
+reading manifest file 'soft_ws.egg-info/SOURCES.txt'
+writing manifest file 'soft_ws.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft-ws.egg-link (link to .)
+Installing fake_imu_publisher script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing goal_navigation_with_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing goal_reporter_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing gps_controller script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing gps_to_odom_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing navigation_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+
+Installed /home/honami/soft_ws/build/soft_ws
+running symlink_data

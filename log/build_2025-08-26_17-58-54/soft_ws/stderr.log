@@ -1,0 +1,5 @@
+  File "/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/goal_navigation_with_imu.py", line 175
+    /goal_fix
+    ^
+SyntaxError: invalid syntax
+

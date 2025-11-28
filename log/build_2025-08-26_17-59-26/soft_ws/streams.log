@@ -1,0 +1,29 @@
+[0.419s] Invoking command in '/home/honami/soft_ws': PYTHONPATH=/home/honami/soft_ws/build/soft_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/soft_ws build --build-base /home/honami/soft_ws/build/soft_ws/build install --record /home/honami/soft_ws/build/soft_ws/install.log --single-version-externally-managed install_data
+[0.582s] running egg_info
+[0.582s] writing build/soft_ws/soft_ws.egg-info/PKG-INFO
+[0.583s] writing dependency_links to build/soft_ws/soft_ws.egg-info/dependency_links.txt
+[0.583s] writing entry points to build/soft_ws/soft_ws.egg-info/entry_points.txt
+[0.583s] writing requirements to build/soft_ws/soft_ws.egg-info/requires.txt
+[0.583s] writing top-level names to build/soft_ws/soft_ws.egg-info/top_level.txt
+[0.584s] reading manifest file 'build/soft_ws/soft_ws.egg-info/SOURCES.txt'
+[0.584s] writing manifest file 'build/soft_ws/soft_ws.egg-info/SOURCES.txt'
+[0.584s] running build
+[0.584s] running build_py
+[0.584s] copying soft_ws/goal_navigation_with_imu.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+[0.585s] running install
+[0.585s] running install_lib
+[0.585s] copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/goal_navigation_with_imu.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+[0.586s] byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/goal_navigation_with_imu.py to goal_navigation_with_imu.cpython-310.pyc
+[0.587s] running install_data
+[0.587s] running install_egg_info
+[0.588s] removing '/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws-0.0.0-py3.10.egg-info' (and everything under it)
+[0.588s] Copying build/soft_ws/soft_ws.egg-info to /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws-0.0.0-py3.10.egg-info
+[0.588s] running install_scripts
+[0.602s] Installing fake_imu_publisher script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.602s] Installing goal_navigation_with_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.602s] Installing goal_reporter_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.602s] Installing gps_controller script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.602s] Installing gps_to_odom_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.602s] Installing navigation_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+[0.603s] writing list of installed files to '/home/honami/soft_ws/build/soft_ws/install.log'
+[0.617s] Invoked command in '/home/honami/soft_ws' returned '0': PYTHONPATH=/home/honami/soft_ws/build/soft_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/soft_ws build --build-base /home/honami/soft_ws/build/soft_ws/build install --record /home/honami/soft_ws/build/soft_ws/install.log --single-version-externally-managed install_data

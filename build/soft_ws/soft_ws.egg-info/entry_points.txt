@@ -1,0 +1,9 @@
+[console_scripts]
+fake_imu_publisher = soft_ws.fake_imu_publisher:main
+goal_navigation_with_imu = soft_ws.goal_navigation_with_imu:main
+goal_reporter_node = soft_ws.goal_reporter_node:main
+gps_controller = soft_ws.gps_controller:main
+gps_to_odom_node = soft_ws.gps_to_odom_node:main
+image_recognition = soft_ws.image_recognition:main
+navigation_imu = soft_ws.navigation_imu:main
+

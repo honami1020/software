@@ -1,0 +1,49 @@
+running develop
+Removing /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft-ws.egg-link (link to .)
+running egg_info
+writing build/soft_ws/soft_ws.egg-info/PKG-INFO
+writing dependency_links to build/soft_ws/soft_ws.egg-info/dependency_links.txt
+writing entry points to build/soft_ws/soft_ws.egg-info/entry_points.txt
+writing requirements to build/soft_ws/soft_ws.egg-info/requires.txt
+writing top-level names to build/soft_ws/soft_ws.egg-info/top_level.txt
+reading manifest file 'build/soft_ws/soft_ws.egg-info/SOURCES.txt'
+writing manifest file 'build/soft_ws/soft_ws.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/honami/soft_ws/build/soft_ws/build
+creating /home/honami/soft_ws/build/soft_ws/build/lib
+creating /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/goal_reporter_node.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/goal_navigation_with_imu.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/gps_controller.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/navigation_imu.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/gps_to_odom_node.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+copying soft_ws/__init__.py -> /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws
+running install
+running install_lib
+creating /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/goal_reporter_node.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/goal_navigation_with_imu.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/gps_controller.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/navigation_imu.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/gps_to_odom_node.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+copying /home/honami/soft_ws/build/soft_ws/build/lib/soft_ws/__init__.py -> /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/goal_reporter_node.py to goal_reporter_node.cpython-310.pyc
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/goal_navigation_with_imu.py to goal_navigation_with_imu.cpython-310.pyc
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/gps_controller.py to gps_controller.cpython-310.pyc
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/navigation_imu.py to navigation_imu.cpython-310.pyc
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/gps_to_odom_node.py to gps_to_odom_node.cpython-310.pyc
+byte-compiling /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/soft_ws -> /home/honami/soft_ws/install/soft_ws/share/ament_index/resource_index/packages
+copying package.xml -> /home/honami/soft_ws/install/soft_ws/share/soft_ws
+running install_egg_info
+Copying build/soft_ws/soft_ws.egg-info to /home/honami/soft_ws/install/soft_ws/lib/python3.10/site-packages/soft_ws-0.0.0-py3.10.egg-info
+running install_scripts
+Installing fake_imu_publisher script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing goal_navigation_with_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing goal_reporter_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing gps_controller script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing gps_to_odom_node script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+Installing navigation_imu script to /home/honami/soft_ws/install/soft_ws/lib/soft_ws
+writing list of installed files to '/home/honami/soft_ws/build/soft_ws/install.log'
